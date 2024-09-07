@@ -1,6 +1,6 @@
 ## Abdelrahman Aboegela 👋
 
-I am a passionate professional specializing in **data science**, **machine learning**, and **data engineering**. I have extensive experience designing scalable data pipelines, developing machine learning models, and using cloud technologies to deliver innovative solutions. My goal is to build intelligent systems that help businesses make data-driven decisions.
+I am a passionate professional specializing in **Data Science**, **Machine Learning**, and **Data Engineering**. I have extensive experience designing scalable data pipelines, developing machine learning models, and using cloud technologies to deliver innovative solutions. My goal is to build intelligent systems that help businesses make data-driven decisions.
 
 - 🔭 Currently working on **building ELT pipelines** and **machine learning solutions**.
 - 🌱 Expanding knowledge in **cloud-native machine learning platforms** and **data visualization**.
@@ -36,5 +36,7 @@ I am a passionate professional specializing in **data science**, **machine learn
   <img alt="ETL" src="https://img.shields.io/badge/-ETL-FF6F00?style=flat-square&logo=apache&logoColor=white" />
 </p>
 
+
 ---
 
+![Profile Visits](https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen)
