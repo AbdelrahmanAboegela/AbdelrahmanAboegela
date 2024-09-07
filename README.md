@@ -38,8 +38,3 @@ I am a passionate professional specializing in **data science**, **machine learn
 
 ---
 
-### 📈 GitHub Activity Graph:
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AbdelrahmanAboegela&bg_color=1c1e21&color=ffb86c&line=ff79c6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
