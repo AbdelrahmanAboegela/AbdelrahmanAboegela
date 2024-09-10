@@ -18,14 +18,6 @@ Hey there! I'm Abdelrahman, a **Data Science**, **Machine Learning**, and **Data
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanAboegela&theme=radical" alt="Profile Details" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AbdelrahmanAboegela&theme=radical" alt="Contribution Graph" width="60%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
@@ -47,13 +39,3 @@ Hey there! I'm Abdelrahman, a **Data Science**, **Machine Learning**, and **Data
 ---
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen)
-
----
-
-### 🌍 Weekly Coding Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdelrahmanAboegela&theme=radical" alt="Wakatime Stats" width="60%" />
-</p>
-
----
