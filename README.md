@@ -1,20 +1,21 @@
-## Abdelrahman Ashraf 👋
+[![Header Banner](https://i.redd.it/n8agw6z2smyb1.gif)](https://linkedin.com/in/abdelrahman-alshames-635aa3277/)
+# <h1 align="center">Hello, I'm Abdelrahman Ashraf 👋</h1>
 
-Hey there! I'm Abdelrahman, a **Data Science**, **Machine Learning**, and **Data Engineering** enthusiast (some might even say *data wizard*) who’s on a mission to turn complex data problems into simple, elegant solutions. Think of me as the guy who takes messy data and transforms it into actionable insights, all while having fun with algorithms and pipelines! 🧙‍♂️✨
+Hey there! I'm **Abdelrahman**, a passionate **Data Science**, **Machine Learning**, and **Data Engineering** enthusiast (or as some might say, a *data wizard*) on a mission to transform complex data problems into simple, elegant solutions. Think of me as the guy who turns messy data into actionable insights—all while having fun with algorithms and pipelines! 🧙‍♂️✨
 
-- 🔭 Currently, I’m deep into **building ELT pipelines** and designing **machine learning solutions**—basically, I’m the architect behind the scenes making the data magic happen! 🛠️✨
-- 🌱 I’m geeking out over **cloud-native machine learning platforms** and sharpening my **data visualization** skills (because who doesn’t love making data look as good as it performs? 🎨📊).
-- 👯 Always ready for collaborations on anything related to **data science**, **machine learning**, or **ETL pipelines**—because let’s be real, teamwork makes the *data* dream work! 🚀
-- 💬 Got questions? Drop me a message about **data science**, **machine learning**, or **cloud-based data engineering**—or, you know, we can just chat about our favorite datasets (yes, I have a few favorites 😂).
-- 📫 Let’s connect! You can reach me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-alshames-635aa3277/)—I promise I don’t bite. 😄
+- 🔭 **Currently:** Deep into building ELT pipelines and designing cutting-edge machine learning solutions.
+- 🌱 **Learning:** Cloud-native machine learning platforms and refining my data visualization skills.
+- 👯 **Collaborations:** Always open to teaming up on projects related to data science, machine learning, or cloud-based data engineering.
+- 💬 **Ask Me About:** Anything related to data science, machine learning, or the magic behind ELT pipelines.
+- 📫 **Reach Out:** Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-alshames-635aa3277/) or drop me a message!
 
 ---
 
-### 🌟 My GitHub Stats (Because who doesn’t love numbers, right?):
+### 🌟 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelrahmanAboegela&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+ 
 </p>
 
 <p align="center">
@@ -23,7 +24,7 @@ Hey there! I'm Abdelrahman, a **Data Science**, **Machine Learning**, and **Data
 
 ---
 
-### 🚀 Technologies and Tools I Love Working With:
+### 🚀 Technologies and Tools I Love Working With
 
 <p align="center">
   <img alt="Data Science" src="https://img.shields.io/badge/-Data%20Science-3776AB?style=flat-square&logo=jupyter&logoColor=white" />
@@ -38,4 +39,6 @@ Hey there! I'm Abdelrahman, a **Data Science**, **Machine Learning**, and **Data
 
 ---
 
-![Profile Visits](https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen)
+### 📈 Profile Visits
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen)](https://github.com/AbdelrahmanAboegela)
