@@ -1,4 +1,4 @@
-[![Header Banner](https://i.redd.it/n8agw6z2smyb1.gif)](https://linkedin.com/in/abdelrahman-alshames-635aa3277/)
+[![Header Banner](https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/main/Banner.gif)](https://linkedin.com/in/abdelrahman-alshames-635aa3277/)
 # <h1 align="center">Hello, I'm Abdelrahman Ashraf 👋</h1>
 
 Hey there! I'm **Abdelrahman**, a passionate **Data Science**, **Machine Learning**, and **Data Engineering** enthusiast (or as some might say, a *data wizard*) on a mission to transform complex data problems into simple, elegant solutions. Think of me as the guy who turns messy data into actionable insights—all while having fun with algorithms and pipelines! 🧙‍♂️✨
