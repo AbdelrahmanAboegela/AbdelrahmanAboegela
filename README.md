@@ -1,44 +1,88 @@
 [![Header Banner](https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/main/Banner.gif)](https://linkedin.com/in/abdelrahman-alshames-635aa3277/)
-# <h1 align="center">Hello, I'm Abdelrahman Ashraf 👋</h1>
 
-Hey there! I'm **Abdelrahman**, a passionate **Data Science**, **Machine Learning**, and **Data Engineering** enthusiast (or as some might say, a *data wizard*) on a mission to transform complex data problems into simple, elegant solutions. Think of me as the guy who turns messy data into actionable insights—all while having fun with algorithms and pipelines! 🧙‍♂️✨
-
-- 🔭 **Currently:** Deep into building ELT pipelines and designing cutting-edge machine learning solutions.
-- 🌱 **Learning:** Cloud-native machine learning platforms and refining my data visualization skills.
-- 👯 **Collaborations:** Always open to teaming up on projects related to data science, machine learning, or cloud-based data engineering.
-- 💬 **Ask Me About:** Anything related to data science, machine learning, or the magic behind ELT pipelines.
-- 📫 **Reach Out:** Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-alshames-635aa3277/) or drop me a message!
-
----
-
-### 🌟 My GitHub Stats
+<h1 align="center">👋 Hi, I'm Abdelrahman Ashraf</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
- 
+    <img src="https://img.shields.io/badge/Data%20Science-%230077B5.svg?&style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Cloud-Azure-%23007ACC.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+    🚀 I'm a <strong>Data Science & Machine Learning Engineer</strong> passionate about transforming <br> 
+    raw data into meaningful insights and AI-powered solutions. With expertise in <br> 
+    <strong>Machine Learning, Data Engineering, and Cloud Computing</strong>, I specialize in <br> 
+    <strong>building scalable ML models, optimizing ETL pipelines, and automating AI workflows</strong>.
 </p>
 
----
+<hr>
 
-### 🚀 Technologies and Tools I Love Working With
+<h2>🔥 What I Do</h2>
+<ul>
+    <li>🏗 <strong>Build & optimize data pipelines</strong> for efficient data processing</li>
+    <li>🤖 <strong>Develop ML & deep learning models</strong> for real-world applications</li>
+    <li>☁️ <strong>Leverage cloud platforms</strong> like <strong>Azure</strong> for AI-powered solutions</li>
+    <li>📊 <strong>Analyze & visualize data</strong> to extract actionable insights</li>
+    <li>🔄 <strong>Automate & deploy ML models</strong> for real-time predictions</li>
+</ul>
+
+<hr>
+
+<h2>🛠 Technologies & Tools</h2>
 
 <p align="center">
-  <img alt="Data Science" src="https://img.shields.io/badge/-Data%20Science-3776AB?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="ETL" src="https://img.shields.io/badge/-ETL-FF6F00?style=flat-square&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Azure-%23007ACC.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
----
+<h3>🧠 Skills</h3>
+<ul>
+    <li>🔹 Data Science & Machine Learning</li>
+    <li>🔹 Deep Learning & Neural Networks</li>
+    <li>🔹 ETL Pipelines & Data Engineering</li>
+    <li>🔹 Model Deployment & Cloud AI</li>
+    <li>🔹 Data Visualization & Business Intelligence</li>
+</ul>
 
-### 📈 Profile Visits
+<hr>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen)](https://github.com/AbdelrahmanAboegela)
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+<hr>
+
+<h2>📬 Let's Connect!</h2>
+<p align="center">
+    <a href="mailto:abdelrahman.aboegela@gmail.com">
+        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/abdelrahman-ashraf-635aa3277/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://github.com/AbdelrahmanAboegela">
+        <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen">
+</p>
+
+<hr>
+
+<h2>🚀 Open to Collaborations!</h2>
+<p align="center">
+    I’m always looking for exciting <strong>ML, AI, and Data Engineering</strong> projects to collaborate on. <br>
+    Let’s build something innovative together! 🚀
+</p>
