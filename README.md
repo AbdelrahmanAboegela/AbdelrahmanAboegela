@@ -6,21 +6,30 @@
     <img src="https://img.shields.io/badge/Data%20Science-%230077B5.svg?&style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/Cloud-Azure-%23007ACC.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <img src="https://img.shields.io/badge/Cloud-AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Bubble.io-%23013357.svg?&style=for-the-badge&logo=bubble&logoColor=white">
+    <img src="https://img.shields.io/badge/Data%20Engineering-%234285F4.svg?&style=for-the-badge&logo=apache-spark&logoColor=white">
+    <img src="https://img.shields.io/badge/DevOps-%2300ADD8.svg?&style=for-the-badge&logo=azure-devops&logoColor=white">
 </p>
 
+
 <p align="center">
-    I’m a <strong>Machine Learning & Data Science Engineer</strong> focused on designing scalable AI systems, delivering insights, and automating intelligent pipelines. My work focuses on developing efficient machine-learning workflows, data-driven solutions, and clean, deployable applications.
+    I’m a <strong>Machine Learning & Data Engineering Engineer</strong> passionate about building 
+    scalable AI systems, intelligent data pipelines, and cloud-native applications. 
+    My work bridges <strong>LLMs, data engineering, and applied ML/DL</strong> to deliver deployable, 
+    real-world solutions.
 </p>
+
 
 <hr>
 
 <h2>💼 Areas of Focus</h2>
 <ul>
-    <li>🔹 ML Model Development & Evaluation</li>
-    <li>🔹 Deep Learning for Vision & NLP</li>
-    <li>🔹 ETL, Data Wrangling, and Feature Engineering</li>
-    <li>🔹 Scalable Cloud-Based AI Deployments (Azure)</li>
-    <li>🔹 Streamlit & Interactive AI Tooling</li>
+    <li>🔹 ML/DL Model Development (Vision, NLP, RAG/LLMs)</li>
+    <li>🔹 Data Engineering & ETL Pipelines</li>
+    <li>🔹 DevOps Engineering: CI/CD, Docker, Monitoring, IaC</li>
+    <li>🔹 Cloud Deployments (Azure, AWS)</li>
+    <li>🔹 Interactive AI Tools (Streamlit, Bubble.io)</li>
 </ul>
 
 <hr>
@@ -56,15 +65,14 @@
     <a href="https://github.com/AbdelrahmanAboegela">
         <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
     </a>
+    <a href="https://www.linkedin.com/in/leby/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </p>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen">
 </p>
 
 <hr>
-
-<h2>🚀 Let's Build Together</h2>
-<p align="center">
-    I’m always open to exciting collaborations in AI, ML, and software tooling. Whether you're working on research, a product, or a tool — let’s connect and build.
-</p>
