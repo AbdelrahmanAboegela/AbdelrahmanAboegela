@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&center=true&vCenter=true&width=900&lines=ML+%26+Data+Engineering;LLM+Apps+%E2%80%A2+RAG+%E2%80%A2+Cloud;I+make+data+behave.+Most+days.;Ship+%3E+perfect."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&center=true&vCenter=true&width=980&lines=ML+%26+Data+Engineering;LLM+Apps+%E2%80%A2+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+Cloud;I+make+data+behave.+Most+days.;Ship+%3E+perfect."
     alt="Typing animation"
   />
 </p>
@@ -29,14 +29,10 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
 </p>
 
-<p align="center">
-  Turning coffee into pipelines ☕➡️📦<br/>
-  Production-minded ML • Reliable data pipelines • Cloud-native delivery
-</p>
-
 ---
 
 <h3 align="center">Toolbox</h3>
+
 <p align="center">
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
@@ -47,30 +43,29 @@
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-111111?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-111111?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphRAG-111111?style=for-the-badge&logo=semanticrelease&logoColor=white" />
+</p>
+
 ---
 
 <h3 align="center">Fun zone</h3>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAboegela&theme=radical&no-frame=true&row=1&column=7"
-    alt="Trophies"
-  />
+  <img src="https://img.shields.io/badge/Works%20on%20my%20machine-true-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging%20skill-++-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ship%20it-%F0%9F%9A%80-111111?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true"
-    alt="Jokes Card"
-  />
-</p>
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Quote Card"
-  />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" />
 </p>
+
 
 ---
 
@@ -88,15 +83,3 @@
     />
   </picture>
 </p>
-
----
-
-<details>
-  <summary><b>Optional: GitHub cards (if you still want them)</b></summary>
-
-  <!-- Using a more reliable mirror endpoint -->
-  <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=radical&hide_border=true" width="49%"/>
-  </p>
-</details>
