@@ -52,21 +52,6 @@
 
 ---
 
-
-
-<h3 align="center">3D Contribution Calendar</h3>
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" />
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" />
-</p>
-
-
----
-
 <h3 align="center">Contribution snake</h3>
 
 <p align="center">
