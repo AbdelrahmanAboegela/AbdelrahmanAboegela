@@ -52,13 +52,11 @@
 
 ---
 
-<h3 align="center">Fun zone</h3>
 
+
+<h3 align="center">3D Contribution Calendar</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Works%20on%20my%20machine-true-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Debugging%20skill-++-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ship%20it-%F0%9F%9A%80-111111?style=for-the-badge" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" />
 </p>
 
 
