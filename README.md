@@ -22,25 +22,37 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen" alt="Profile views" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
 </p>
 
----
+### About Me
+
+I build data and ML systems that turn messy inputs into something a product can rely on — pipelines, retrieval systems, and LLM-powered apps. Lately that's meant **RAG / GraphRAG**, fine-tuning with **LoRA/PEFT**, and shipping ML workloads on **Azure** and **AWS** — most recently on **Sheikh Ibn Baz Library**, an Arabic RAG app grounded in fatwas, Quran, and hadith with a fatwa-only AI assistant.
+
+- 🌱 Learning: Federated Learning for Autonomous Vehicles
+- 🌱 Learning: jailbreaking / red-teaming in Spatial Transcriptomics models
+- 💬 Ask me about: LLM apps, RAG/GraphRAG, ML pipelines, cloud deployment
+- 🤝 Open to: *(freelance / collab / full-time — fill in what's true for you)*
+- 🎮 Status: probably debugging past midnight
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
+</p>
 
 <h3 align="center">Toolbox</h3>
 
 <p align="center">
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center">
@@ -50,9 +62,26 @@
   <img src="https://img.shields.io/badge/GraphRAG-111111?style=for-the-badge&logo=semanticrelease&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
+</p>
 
-<h3 align="center">Contribution snake</h3>
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAboegela&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
+</p>
+
+<h3 align="center">Contribution Snake</h3>
 
 <p align="center">
   <picture>
