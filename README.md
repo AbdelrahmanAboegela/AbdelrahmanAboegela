@@ -36,7 +36,7 @@ I build data and ML systems that turn messy inputs into something a product can 
 - 🌱 Learning: Federated Learning for Autonomous Vehicles
 - 🌱 Learning: jailbreaking / red-teaming in Spatial Transcriptomics models
 - 💬 Ask me about: LLM apps, RAG/GraphRAG, ML pipelines, cloud deployment
-- 🤝 Open to: *(freelance / collab / full-time — fill in what's true for you)*
+- 🤝 Open to: *(freelance / collab / full-time / research / even tutoring)*
 - 🎮 Status: probably debugging past midnight
 
 <p align="center">
