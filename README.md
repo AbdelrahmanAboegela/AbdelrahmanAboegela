@@ -62,16 +62,6 @@ Also working with: `LoRA / PEFT` &nbsp; `LangChain` &nbsp; `LlamaIndex` &nbsp; `
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AbdelrahmanAboegela&theme=dark&hide_border=true" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake.svg" />
