@@ -1,97 +1,78 @@
-[![Header Banner](https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/main/Banner.gif)](https://www.linkedin.com/in/leby/)
+<div align="center">
 
-<h1 align="center">Abdelrahman Ashraf</h1>
+# Abdelrahman Ashraf
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&center=true&vCenter=true&width=980&lines=ML+%26+Data+Engineering;LLM+Apps+%E2%80%A2+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+Cloud;I+make+data+behave.+Most+days.;Ship+%3E+perfect."
-    alt="Typing animation"
-  />
-</p>
+**Machine Learning & Data Engineer**
 
-<p align="center">
-  <a href="mailto:abdelrahman.aboegela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/leby/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AbdelrahmanAboegela">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+*Building production RAG systems, LLM architectures, fine-tuning pipelines, and cloud data infrastructure.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanAboegela&color=brightgreen" alt="Profile views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leby/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.aboegela@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdelrahmanAboegela)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
-</p>
+---
 
-### About Me
+</div>
 
-I build data and ML systems that turn messy inputs into something a product can rely on — pipelines, retrieval systems, and LLM-powered apps. Lately that's meant **RAG / GraphRAG**, fine-tuning with **LoRA/PEFT**, and shipping ML workloads on **Azure** and **AWS** — most recently on **Sheikh Ibn Baz Library**, an Arabic RAG app grounded in fatwas, Quran, and hadith with a fatwa-only AI assistant.
+## 📌 Executive Summary
 
-- 🌱 Learning: Federated Learning for Autonomous Vehicles
-- 🌱 Learning: jailbreaking / red-teaming in Spatial Transcriptomics models
-- 💬 Ask me about: LLM apps, RAG/GraphRAG, ML pipelines, cloud deployment
-- 🤝 Open to: *(freelance / collab / full-time / research / even tutoring)*
-- 🎮 Status: probably debugging past midnight
+I engineer production-grade machine learning pipelines and data architectures that transform complex, unformatted data into dependable AI applications. My core technical focus spans **Hybrid RAG & GraphRAG**, **Parameter-Efficient Fine-Tuning (LoRA/PEFT)**, **Adversarial Safety / Red-Teaming**, and **Cloud Infrastructure (Azure & AWS)**.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
-</p>
+---
 
-<h3 align="center">Toolbox</h3>
+## 🚀 Featured Systems & Research
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+#### 🟢 [Ibn-Baz Library RAG Assistant](https://github.com/AbdelrahmanAboegela/Ibn-Baz)
+> **Arabic-first AI Assistant & Knowledge Engine**
+- Built a specialized hybrid RAG pipeline grounded in fatwas, Quranic texts, and Hadith sources.
+- Integrates custom vector retrieval, voice verse search, and strict citation grounding for domain-specific safety.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-111111?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-111111?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphRAG-111111?style=for-the-badge&logo=semanticrelease&logoColor=white" />
-</p>
+#### 🛡️ [D-Mask Safety Benchmark](https://github.com/AbdelrahmanAboegela/D-Mask)
+> **LLM Safety & Adversarial Red-Teaming Research**
+- Reproducibility research artifact introducing a sparse, base-letter-invariant Arabic diacritic attack on LLM safety guardrails.
+- Evaluates systemic vulnerability thresholds in multilingual safety classifiers.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
-</p>
+#### 📊 [Tax Fraud RAG System](https://github.com/AbdelrahmanAboegela/Tax-Fraud-RAG-System)
+> **Financial Analytics & Anomaly Detection Pipeline**
+- Developed a retrieval-augmented intelligence system designed to process complex tax documents and detect compliance anomalies.
 
-<h3 align="center">GitHub Stats</h3>
+#### 💼 [Operational AI Business Manager](https://github.com/AbdelrahmanAboegela/operational-business-manager)
+> **Enterprise AI Management Platform**
+- Full-stack AI operational engine combining Next.js with an Arabic-to-SQL Python sidecar for real-time relational query translation.
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=dark&hide_border=true" />
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAboegela&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🛠️ Technical Capabilities
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/line.gif" width="100%" alt="divider"/>
-</p>
+| Domain | Stack & Technologies |
+| :--- | :--- |
+| **Languages & Core** | Python, SQL, C++, Bash |
+| **ML & AI Frameworks** | PyTorch, TensorFlow, LoRA / PEFT, Hugging Face, Ollama |
+| **RAG & Knowledge Graphs** | GraphRAG, Neo4j, Hybrid Vector Search, LlamaIndex, LangChain |
+| **Data & Cloud Infra** | Azure ML, AWS, Docker, PostgreSQL, Qdrant, Git |
 
-<h3 align="center">Contribution Snake</h3>
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake.svg" />
-    <img
-      src="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake-dark.svg"
-      alt="Snake animation"
-    />
-  </picture>
-</p>
+## 🔬 Active Research Focus
+
+- **Federated Learning for Autonomous Systems**: Privacy-preserving model distribution and edge update convergence.
+- **Multimodal Red-Teaming**: Jailbreak dynamics and robustness evaluation in Spatial Transcriptomics models.
+
+---
+
+## 📈 Activity & Insights
+
+<div align="center">
+
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=AbdelrahmanAboegela&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdelrahmanAboegela&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</picture>
+
+</div>
