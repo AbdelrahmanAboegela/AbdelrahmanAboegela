@@ -1,66 +1,79 @@
-<div align="center">
+[![Header Banner](https://raw.githubusercontent.com/AbdelrahmanAboegela/AbdelrahmanAboegela/main/Banner.gif)](https://www.linkedin.com/in/leby/)
 
-# Abdelrahman Ashraf
+<h1 align="center">Abdelrahman Ashraf</h1>
 
-**Machine Learning & Data Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&center=true&vCenter=true&width=980&lines=ML+%26+Data+Engineering;LLM+Apps+%E2%80%A2+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+Cloud;I+make+data+behave.+Most+days.;Ship+%3E+perfect." alt="Typing animation" />
+</p>
 
-*Building production RAG systems, LLM architectures, fine-tuning pipelines, and cloud data infrastructure.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/leby/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdelrahman.aboegela@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdelrahmanAboegela">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leby/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.aboegela@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdelrahmanAboegela)
+<hr />
 
----
+## Executive Summary
 
-</div>
-
-## 📌 Executive Summary
-
-I engineer production-grade machine learning pipelines and data architectures that transform complex, unformatted data into dependable AI applications. My core technical focus spans **Hybrid RAG & GraphRAG**, **Parameter-Efficient Fine-Tuning (LoRA/PEFT)**, **Adversarial Safety / Red-Teaming**, and **Cloud Infrastructure (Azure & AWS)**.
-
----
-
-## 🚀 Featured Systems & Research
-
-#### 🟢 [Ibn-Baz Library RAG Assistant](https://github.com/AbdelrahmanAboegela/Ibn-Baz)
-> **Arabic-first AI Assistant & Knowledge Engine**
-- Built a specialized hybrid RAG pipeline grounded in fatwas, Quranic texts, and Hadith sources.
-- Integrates custom vector retrieval, voice verse search, and strict citation grounding for domain-specific safety.
-
-#### 🛡️ [D-Mask Safety Benchmark](https://github.com/AbdelrahmanAboegela/D-Mask)
-> **LLM Safety & Adversarial Red-Teaming Research**
-- Reproducibility research artifact introducing a sparse, base-letter-invariant Arabic diacritic attack on LLM safety guardrails.
-- Evaluates systemic vulnerability thresholds in multilingual safety classifiers.
-
-#### 📊 [Tax Fraud RAG System](https://github.com/AbdelrahmanAboegela/Tax-Fraud-RAG-System)
-> **Financial Analytics & Anomaly Detection Pipeline**
-- Developed a retrieval-augmented intelligence system designed to process complex tax documents and detect compliance anomalies.
-
-#### 💼 [Operational AI Business Manager](https://github.com/AbdelrahmanAboegela/operational-business-manager)
-> **Enterprise AI Management Platform**
-- Full-stack AI operational engine combining Next.js with an Arabic-to-SQL Python sidecar for real-time relational query translation.
+I specialize in building production-grade Machine Learning architectures and cloud data pipelines. My work focuses on bridging domain-specific data with scalable AI systems—ranging from **GraphRAG & intent-aware retrieval**, **LLM safety guardrails**, and **fine-tuning (LoRA/PEFT)**, to **end-to-end Azure/AWS data engineering** and **biosignal/CV models**.
 
 ---
 
-## 🛠️ Technical Capabilities
+## Systems & Open-Source Research
 
-| Domain | Stack & Technologies |
+#### [Ibn-Baz Knowledge Assistant](https://github.com/AbdelrahmanAboegela/Ibn-Baz)
+> **Arabic RAG Architecture & Citation Grounding**
+- Developed a domain-specific hybrid RAG system grounded in fatwa archives, Quranic texts, and Hadith references.
+- Features specialized vector retrieval, voice verse search, and strict citation constraints for verified factual output.
+
+#### [GraphRAG Multiview](https://github.com/AbdelrahmanAboegela/graphrag-multiview)
+> **Graph-Enhanced Retrieval & Intent Routing**
+- Built a hybrid RAG framework combining graph database structures (Neo4j) with dense vector search.
+- Implements intent-aware query routing for complex, multi-hop reasoning tasks across connected datasets.
+
+#### [D-Mask & ArGuard Safety Benchmarks](https://github.com/AbdelrahmanAboegela/D-Mask)
+> **LLM Safety Guardrails & Adversarial Red-Teaming**
+- Researched adversarial vulnerabilities in Arabic NLP, demonstrating sparse base-letter-invariant diacritic attacks.
+- Evaluates safety boundary limits in fine-tuned multilingual models and safety classifiers.
+
+#### [Cloud Data Engineering Pipelines](https://github.com/AbdelrahmanAboegela/DEPI-Final-Data-Engineering-Task)
+> **Enterprise Azure & AWS Data Infrastructure**
+- Architected automated ETL pipelines using Azure Data Factory, Databricks, and Synapse Analytics.
+- Handled multi-stage ingestion, transformation, and analytical data warehousing for high-throughput workloads.
+
+#### [Biosignal & Vision Systems](https://github.com/AbdelrahmanAboegela/Depi-Graduation-Project)
+> **EEG/ECG Stress Analytics & Two-Phase YOLOv11**
+- Trained multimodal biosignal models for real-time stress level classification using EEG and ECG data streams.
+- Designed two-phase YOLOv11 pipelines for high-precision Egyptian license plate recognition.
+
+---
+
+## Technical Stack
+
+| Category | Technologies |
 | :--- | :--- |
 | **Languages & Core** | Python, SQL, C++, Bash |
 | **ML & AI Frameworks** | PyTorch, TensorFlow, LoRA / PEFT, Hugging Face, Ollama |
-| **RAG & Knowledge Graphs** | GraphRAG, Neo4j, Hybrid Vector Search, LlamaIndex, LangChain |
-| **Data & Cloud Infra** | Azure ML, AWS, Docker, PostgreSQL, Qdrant, Git |
+| **RAG & Graph DBs** | GraphRAG, Neo4j, Qdrant, LlamaIndex, LangChain |
+| **Cloud & Data Infra** | Azure Data Factory, Databricks, Synapse Analytics, AWS, Docker, PostgreSQL, Git |
 
 ---
 
-## 🔬 Active Research Focus
+## Research Focus
 
-- **Federated Learning for Autonomous Systems**: Privacy-preserving model distribution and edge update convergence.
-- **Multimodal Red-Teaming**: Jailbreak dynamics and robustness evaluation in Spatial Transcriptomics models.
+- **Federated Learning in Autonomous Systems**: Distributed privacy-preserving learning and edge model convergence.
+- **Spatial Transcriptomics & Multimodal Security**: Adversarial robustness and red-teaming in computational biology models.
 
 ---
 
-## 📈 Activity & Insights
+## GitHub Analytics
 
 <div align="center">
 
