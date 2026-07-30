@@ -50,16 +50,6 @@ Also working with: `LoRA / PEFT` &nbsp; `LangChain` &nbsp; `LlamaIndex` &nbsp; `
 
 ---
 
-**Selected Work**
-
-**[Ibn-Baz Knowledge Assistant](https://github.com/AbdelrahmanAboegela/Ibn-Baz)** — Arabic-first AI assistant built on Sheikh Ibn Baz's fatwa corpus. Hybrid RAG with voice Quran verse search, tafsir lookup, and hadith-aware citation grounding. Strict answer constraints so it only speaks from the source.
-
-**[GraphRAG Multiview](https://github.com/AbdelrahmanAboegela/graphrag-multiview)** — Retrieval engine combining Neo4j knowledge graphs with dense vector search. Routes queries by intent for multi-hop reasoning. Built it as a more honest alternative to naive top-k RAG.
-
-**[EEG/ECG Stress Detection](https://github.com/AbdelrahmanAboegela/Depi-Graduation-Project)** — Multimodal biosignal classifier that reads EEG and ECG streams to infer real-time stress levels. Graduation project, now feeding into broader bioinformatics research.
-
----
-
 <div align="center">
 
 <picture>
