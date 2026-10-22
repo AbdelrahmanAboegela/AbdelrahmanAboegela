@@ -27,7 +27,6 @@ ML engineer and researcher at E-JUST. I build retrieval systems, LLM application
 **Education**
 
 BSc · Computer Science (AI specialization) · E-JUST<br/>
-MSc · Bioinformatics · E-JUST *(current)*
 
 **Exploring**
 
